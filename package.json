@@ -1,0 +1,21 @@
+{
+  "name": "vine-router-template",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A vue-vine app created with create-vue-vine",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.4.25",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.10",
+    "vue-vine": "*"
+  }
+}
